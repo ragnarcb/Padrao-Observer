@@ -1,0 +1,5 @@
+Padrão Observer: Popularidade e Uso
+O padrão Observer é popular por promover um baixo acoplamento entre objetos, o que facilita a modularidade e a manutenção do código. Ele permite a escalabilidade ao possibilitar a adição de novos observadores durante a execução. Sua reutilização frequente e a padronização em frameworks fazem dele uma escolha comum para gerenciamento de eventos.
+
+Elementos que Chamam a Atenção nos Padrões de Projeto
+Padrões de projeto têm nomes e propósitos bem definidos, oferecendo soluções eficazes para problemas recorrentes. A compreensão das suas estruturas, participantes e impactos ajuda na aplicação correta e na avaliação dos trade-offs. Exemplos práticos e a inter-relação entre diferentes padrões fornecem um entendimento mais aprofundado e contextualizado.
