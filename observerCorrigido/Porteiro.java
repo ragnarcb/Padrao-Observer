@@ -17,7 +17,7 @@ public class Porteiro {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("Digite 1 para notificar a namorada da chegada do aniversariante, qualquer outro número para manter o silêncio:");
+            System.out.println("Digite 1 para notificar a namorada da chegada do aniversariante, qualquer outro número para se manterem apostos:");
             int valor = scanner.nextInt();
 
             if (valor == 1) {
